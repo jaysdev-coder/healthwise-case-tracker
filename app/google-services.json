@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759593697268",
+    "project_id": "assignment2-4180f",
+    "storage_bucket": "assignment2-4180f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759593697268:android:e706988234140d44bb83a1",
+        "android_client_info": {
+          "package_name": "com.healthwise.casetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759593697268-o2san36j99c8hqfkqi2k7i695vhk1agu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9jhouz2-1xo0VSJUjBl5U6qpFUZNJyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759593697268-o2san36j99c8hqfkqi2k7i695vhk1agu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

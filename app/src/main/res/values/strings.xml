@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="txt_password">Password</string>
+    <string name="tyTxt_email">Type Email</string>
+    <string name="txt_email">Email: </string>
+    <string name="txt_regPasswordConfirm">Confirm</string>
+    <string name="txt_btn_login">Login</string>
+    <string name="cTxt_register">Register</string>
+    <string name="log_out">Log out</string>
+    <string name="txt_btn_byGender">Cases by gender</string>
+    <string name="txt_btn_byMoYear"><![CDATA[Cases by month & year]]></string>
+    <string name="txt_btn_byHealthAuth">Cases by health authority</string>
+    <string name="txt_btn_by_age">Cases by age group</string>
+    <string name="joon_hyeong_kim">Joon Hyeong Kim</string>
+    <string name="jung_jae_lee">Jung Jae Lee</string>
+    <string name="txt_h_byGender"> Cases by Gender</string>
+    <string name="txt_c_byGender"> Empty </string>
+    <string name="txt_c_byAge"> Empty </string>
+    <string name="txt_h_byAge">Cases by age group</string>
+    <string name="txt_h_byHealthAuth">Cases by health authority</string>
+    <string name="txt_c_byHealthAuth">Empty</string>
+    <string name="txt_h_byMoYear"><![CDATA[Cases by month & year]]></string>
+    <string name="txt_c_moYear"> </string>
+    <string name="txt_btn_byMoYearFind">Find</string>
+    <string name="tyTxt_password">Type Password</string>
+    <string name="txt_loginWelcome">Aloha</string>
+    <string name="txt_regEmail">Email: </string>
+    <string name="tyTxt_regEmail">Type Email: </string>
+    <string name="txt_regPassword">Password: </string>
+    <string name="tyTxt_regPassword">"Type Password: "</string>
+    <string name="tyTxt_regPasswordConfirm">"Type Password again: "</string>
+    <string name="txt_btn_register">Register</string>
+    <string name="txt_btn_to_loginPg">Login</string>
+    <string name="txt_h_reg">Join Us</string>
+    <string name="loading">Loading...</string>
+</resources>
